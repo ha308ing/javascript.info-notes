@@ -1,0 +1,16 @@
+{
+  "name": "javascript-info.ru",
+  "description": "learn js from javascript.info",
+  "version": "0.0.1",
+  "private": "true",
+  "devDependencies": {
+    "@babel/cli": "^7.23.0",
+    "@babel/core": "^7.23.0",
+    "@babel/preset-env": "^7.22.20",
+    "@babel/register": "^7.22.15",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-pug": "^5.0.0"
+  }
+}
